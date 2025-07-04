@@ -1,3 +1,5 @@
+IMPORTANT : THIS APP CREATED IN THE GOOGLE AISTUDIO UNDER PROMPT BY EOZALP. NOT TESTED IN REAL ENVIRONMENTS AND MAY CONTAIN BUGS.
+
 # ZenLedger - Offline Accounting PWA
 
 ZenLedger is a local-first, offline-ready, private, double-entry accounting web application. All data is stored exclusively on your device using IndexedDB, ensuring your financial information remains private and accessible even without an internet connection. It is designed as a Progressive Web App (PWA) for a mobile-first, "thumb-ready" UI/UX.
